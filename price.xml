@@ -3,49 +3,39 @@
   <SERVICEDETAILS>
     <NAME>THE FOX AND THE HOUND (1981)</NAME>
     <DESCRIPTION>An Adveturus places of the world with picture perfect</DESCRIPTION>
-    <IMDB>8.8</IMDB>
-      <ROTTEN>70%</ROTTEN>
+    <NOOFPEOPLE>8.2</NOOFPEOPLE>
+      <BESTSHOTSTILLNOW>70%</BESTSHOTSTILLNOW>
       <PRICE>$ 400</PRICE>
   </SERVICEDETAILS>
-    <SERVICEDETAILS>
-    <NAME>THE FOX AND THE HOUND (1981)</NAME>
-    <DESCRIPTION>An Adveturus places of the world with picture perfect</DESCRIPTION>
-    <IMDB>8.8</IMDB>
-      <ROTTEN>70%</ROTTEN>
-      <PRICE>$ 400</PRICE>
-  </SERVICEDETAILS>  <SERVICEDETAILS>
-    <NAME>THE FOX AND THE HOUND (1981)</NAME>
-    <DESCRIPTION>An Adveturus places of the world with picture perfect</DESCRIPTION>
-    <IMDB>8.8</IMDB>
-      <ROTTEN>70%</ROTTEN>
-      <PRICE>$ 400</PRICE>
-  </SERVICEDETAILS>  <SERVICEDETAILS>
-    <NAME>THE FOX AND THE HOUND (1981)</NAME>
-    <DESCRIPTION>An Adveturus places of the world with picture perfect</DESCRIPTION>
-    <IMDB>8.8</IMDB>
-      <ROTTEN>70%</ROTTEN>
-      <PRICE>$ 400</PRICE>
-  </SERVICEDETAILS>  <SERVICEDETAILS>
-    <NAME>THE FOX AND THE HOUND (1981)</NAME>
-    <DESCRIPTION>An Adveturus places of the world with picture perfect</DESCRIPTION>
-    <IMDB>8.8</IMDB>
-      <ROTTEN>70%</ROTTEN>
-      <PRICE>$ 400</PRICE>
-  </SERVICEDETAILS>  <SERVICEDETAILS>
-    <NAME>THE FOX AND THE HOUND (1981)</NAME>
-    <DESCRIPTION>An Adveturus places of the world with picture perfect</DESCRIPTION>
-    <IMDB>8.8</IMDB>
-      <ROTTEN>70%</ROTTEN>
-      <PRICE>$ 400</PRICE>
-  </SERVICEDETAILS>  <SERVICEDETAILS>
-    <NAME>THE FOX AND THE HOUND (1981)</NAME>
-    <DESCRIPTION>An Adveturus places of the world with picture perfect</DESCRIPTION>
-    <IMDB>8.8</IMDB>
-      <ROTTEN>70%</ROTTEN>
-      <PRICE>$ 400</PRICE>
+  <SERVICEDETAILS>
+    <NAME>PIGLET'S BIG MOVIE (2003)</NAME>
+    <DESCRIPTION>Pig's world with picture perfect</DESCRIPTION>
+    <NOOFPEOPLE>5.0</NOOFPEOPLE>
+      <BESTSHOTSTILLNOW>24%</BESTSHOTSTILLNOW>
+      <PRICE>$ 800</PRICE>
   </SERVICEDETAILS>
-  
+  <SERVICEDETAILS>
+    <NAME>CARS 3</NAME>
+    <DESCRIPTION>Best world wide food hungry cars</DESCRIPTION>
+    <NOOFPEOPLE>8.6</NOOFPEOPLE>
+    <BESTSHOTSTILLNOW>78%</BESTSHOTSTILLNOW>
+    <PRICE>$ 650</PRICE>
   </SERVICEDETAILS>
+  <SERVICEDETAILS>
+    <NAME>WAKING SLEEPING BEAUTY (2010)</NAME>
+    <DESCRIPTION>fascinating and surprisingly candorous glimpse</DESCRIPTION>
+    <NOOFPEOPLE>5.3</NOOFPEOPLE>
+      <BESTSHOTSTILLNOW>50%</BESTSHOTSTILLNOW>
+      <PRICE>$ 1800</PRICE>
+  </SERVICEDETAILS>
+  <SERVICEDETAILS>
+    <NAME>THE HUNCHBACK OF NOTRE DAME (1996)</NAME>
+    <DESCRIPTION>The Santa Clause is utterly undemanding, but it's firmly rooted in the sort of good old-fashioned holiday</DESCRIPTION>
+    <NOOFPEOPLE>7.7</NOOFPEOPLE>
+      <BESTSHOTSTILLNOW>54%</BESTSHOTSTILLNOW>
+      <PRICE>$ 1300</PRICE>
+  </SERVICEDETAILS>
+ 
     
   
 </CATALOG>
