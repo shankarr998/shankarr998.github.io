@@ -22,24 +22,26 @@
     <PRICE>$ 650</PRICE>
   </SERVICEDETAILS>
   <SERVICEDETAILS>
-    <NAME>NATURE</NAME>
-    <DESCRIPTION>Best heavenly places on the earth</DESCRIPTION>
-    <NOOFPEOPLE>4008</NOOFPEOPLE>
-      <BESTSHOTSTILLNOW>1670</BESTSHOTSTILLNOW>
+    <NAME>EIGHT BELOW (2006)
+</NAME>
+    <DESCRIPTION>Featuring a stellar cast of marooned mutts, who deftly display emotion, tenderness.</DESCRIPTION>
+    <NOOFPEOPLE>3.6</NOOFPEOPLE>
+      <BESTSHOTSTILLNOW>45%</BESTSHOTSTILLNOW>
       <PRICE>$ 1800</PRICE>
   </SERVICEDETAILS>
   <SERVICEDETAILS>
-    <NAME>TRAVEL</NAME>
-    <DESCRIPTION>Best travel blog videos and pictures</DESCRIPTION>
-    <NOOFPEOPLE>1980</NOOFPEOPLE>
-      <BESTSHOTSTILLNOW>1300</BESTSHOTSTILLNOW>
+    <NAME>MUPPET TREASURE ISLAND (1996)</NAME>
+    <DESCRIPTION>Robert Louis Stevenson's classic tale of a young orphan who becomes involved with pirate.</DESCRIPTION>
+    <NOOFPEOPLE>5.3</NOOFPEOPLE>
+      <BESTSHOTSTILLNOW>82%</BESTSHOTSTILLNOW>
       <PRICE>$ 1300</PRICE>
   </SERVICEDETAILS>
   <SERVICEDETAILS>
-    <NAME>FOOD</NAME>
-    <DESCRIPTION>Heavenly and amazing dishes served over the planet</DESCRIPTION>
-    <NOOFPEOPLE>8000</NOOFPEOPLE>
-      <BESTSHOTSTILLNOW>4800</BESTSHOTSTILLNOW>
+    <NAME>AFRICAN CATS (2011)
+</NAME>
+    <DESCRIPTION>An epic true story set against the backdrop of one of the wildest places on Earth, African Cats.</DESCRIPTION>
+    <NOOFPEOPLE>2.2</NOOFPEOPLE>
+      <BESTSHOTSTILLNOW>20%</BESTSHOTSTILLNOW>
       <PRICE>$ 2000</PRICE>
   </SERVICEDETAILS>
     
